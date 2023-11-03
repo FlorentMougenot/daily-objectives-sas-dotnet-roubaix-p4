@@ -46,4 +46,5 @@
 
 ### Optionnel pour apprendre le terminal Linux / Mac :
 
-- [x] Faire le wargame bandit jusqu'au niveau 5 (anglais)
+- [x] Faire le wargame bandit jusqu'au niveau 6
+ (anglais)
