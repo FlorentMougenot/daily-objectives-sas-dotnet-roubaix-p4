@@ -5,3 +5,4 @@
 - [x] Faire connaissance avec l'équipe pédagogique et les autres apprenants
 - [x] Comprendre la méthode pédagogique et la philosophie Simplon
 - [x] Découvrir le brief "Roadmap Métier Développeur"
+
