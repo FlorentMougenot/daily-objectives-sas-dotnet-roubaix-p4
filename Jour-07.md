@@ -45,11 +45,11 @@
 
 - [x] Création de compte Github
 - [ ] Pimper son profile Github (belle du village)
-- [ ] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
-  - [ ] Créer un tunnel SSH entre local et Github
-- [ ] Découvrir l'interface de Github :
-- [ ] Pull Requests
-- [ ] Branches
-- [ ] Issues
-- [ ] Settings projet
-- [ ] Settings profile
+- [x] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
+  - [x] Créer un tunnel SSH entre local et Github
+- [x] Découvrir l'interface de Github :
+- [x] Pull Requests
+- [x] Branches
+- [x] Issues
+- [x] Settings projet
+- [x] Settings profile
