@@ -5,7 +5,7 @@
 
 ### Git
 
-- [x] Comprendre le fonctionnement des branches dans Git :
+- [xgtigit pull upstream main] Comprendre le fonctionnement des branches dans Git :
     - [x] Lister, changer, créer, supprimer des branches
     - [x] Quelle est la différence entre `Git switch` et `Git checkout`
 - [ ] Comprendre le merge dans Git
