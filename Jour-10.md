@@ -13,17 +13,17 @@
     - [x] À quoi sert la commande `git fetch —prune`
     - [x] Comment configurer mon git pour que ce soit fait automatiquement ?
 - [ ] Configurer son git : 
-  - [ ] Editeur 
-  - [ ] Différenciateur (par ex : Delta) 
-  - [ ] Aliases 
-  - [ ] Comprendre la différence entre config locale, globale et système
+  - [x] Editeur 
+  - [x] Différenciateur (par ex : Delta) 
+  - [x] Aliases 
+  - [x] Comprendre la différence entre config locale, globale et système
 
 ### Github
 
 - [x] Découverte de Github CLI
   - [x] Installation et connexion
-  - [ ] Faire le tour du propriétaire
-  - [ ] Intégration de `gh` dans son workflow
+  - [x] Faire le tour du propriétaire
+  - [x] Intégration de `gh` dans son workflow
   - [ ] Finalisation de son profile Github
 
 ### NodeJS
