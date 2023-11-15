@@ -5,4 +5,4 @@
 
 ### Codewars
 
-- [ ] Continuer Le challenge "C'est la Katastrophe"
+- [x] Continuer Le challenge "C'est la Katastrophe"
