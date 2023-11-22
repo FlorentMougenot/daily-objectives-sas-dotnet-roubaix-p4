@@ -4,15 +4,15 @@
 
 ### Javascript :
 
-- [ ] Comprendre le système de `Garbage Collection` (https://fr.javascript.info/garbage-collection)
-  - [ ] Comprendre son utilité, les conditions de son déclenchement, sa manipulation
-- [ ] Comprendre le fonctionnement des méthodes et du `this` en Javascript (https://fr.javascript.info/object-methods)
+- [x] Comprendre le système de `Garbage Collection` (https://fr.javascript.info/garbage-collection)
+  - [x] Comprendre son utilité, les conditions de son déclenchement, sa manipulation
+- [x] Comprendre le fonctionnement des méthodes et du `this` en Javascript (https://fr.javascript.info/object-methods)
 
 ### PostgreSQL
 
-- [ ] Comprendre la différence entre le `SQL` et le `NoSQL`
-- [ ] Installer `pgcli` (https://www.pgcli.com/) et refaire les manipulations précédentes avec
-- [ ] Savoir générer une base de données avec `Mockaroo` (https://mockaroo.com/)
+- [x] Comprendre la différence entre le `SQL` et le `NoSQL`
+- [x] Installer `pgcli` (https://www.pgcli.com/) et refaire les manipulations précédentes avec
+- [x] Savoir générer une base de données avec `Mockaroo` (https://mockaroo.com/)
 - [ ] Savoir restaurer une base de données dans `PostgreSQL`
 - [ ] Savoir restaurer le schéma d'une base de donnée uniquement
 - [ ] Savoir retrouver une ou plusieurs tables d'une base de données
