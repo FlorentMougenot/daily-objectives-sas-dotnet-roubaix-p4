@@ -4,10 +4,10 @@
 
 ### NodeJS :
 
-- [ ] Comprendre ce qu'est Node.js
-- [ ] Préparation de l'environnement de développement backend (installations, mises à jour)
-- [ ] Comprendre la différence entre le développement synchrone et asynchrone
-- [ ] Comprendre ce qu'est le `REPL` et découvrir son fonctionnement de base
+- [x] Comprendre ce qu'est Node.js
+- [x] Préparation de l'environnement de développement backend (installations, mises à jour)
+- [x] Comprendre la différence entre le développement synchrone et asynchrone
+- [x] Comprendre ce qu'est le `REPL` et découvrir son fonctionnement de base
 - [ ] Comprendre le fonctionnement de `NPM` :
   - [ ] Comprendre les différences entre les package managers et en choisir un :
     - [ ] Découverte de "NPM", "Yarn" et "PNPM"
